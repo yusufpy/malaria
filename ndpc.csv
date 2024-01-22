@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Parasite_Count,Temperature,Hemoglobin_Level,Symptoms_Present,Malaria_Diagnosis
+1,25,Female,120,98.6,12.5,"Fever, Headache",1
+2,32,Male,80,99.2,13.2,Fatigue,0
+3,28,Female,150,98.8,11.8,"Chills, Sweating",1
+4,35,Male,60,98.0,14.0,None,0
+5,22,Female,110,99.5,12.9,"Nausea, Vomiting",1
+6,45,Male,40,98.2,13.5,Body Aches,0
+7,29,Female,130,99.0,11.5,"Fever, Fatigue",1
+8,31,Male,75,98.7,13.8,None,0
+9,26,Female,90,99.3,12.0,"Headache, Sweating",1
+10,40,Male,55,98.4,14.2,"Chills, Fatigue",0
+11,27,Female,105,98.9,12.3,"Sweating, Nausea",1
+12,33,Male,70,98.5,13.7,"Headache, Fatigue",0
+13,24,Female,140,99.1,11.2,"Vomiting, Chills",1
+14,37,Male,50,98.3,14.1,None,0
+15,30,Female,95,99.4,12.6,"Fatigue, Fever",1
+16,42,Male,65,98.1,13.4,"Chills, Body Aches",0
+17,23,Female,125,99.7,12.1,"Sweating, Nausea, Headache",1
+18,36,Male,85,98.8,13.0,None,0
+19,34,Female,115,99.2,12.8,"Vomiting, Body Aches, Chills",1
+20,28,Male,45,98.6,13.9,"Fatigue, Headache",0
